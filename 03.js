@@ -1,5 +1,5 @@
 function calcularDobro (numero) {
-    return numero * 2;
+    return numero * 5;
 }
 
 let resultadoDobro = calcularDobro(5);
